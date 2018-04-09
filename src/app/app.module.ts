@@ -1,6 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-
+import { HttpModule } from '@angular/http';
 import { AppComponent } from './app.component';
 import { MapComponent } from './components/map/map.component';
 import { MarkerComponent } from './components/marker/marker.component';
@@ -14,7 +14,8 @@ import { MarkerListComponent } from './components/marker-list/marker-list.compon
     MarkerListComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    HttpModule
   ],
   providers: [],
   bootstrap: [AppComponent]

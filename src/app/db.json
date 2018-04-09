@@ -1,0 +1,106 @@
+{
+    "data": [
+        {
+        "BSD111": {
+
+            "lat": 53.5511, 
+            "lng": 9.9937,
+            "shortName": "ACTIVE",
+            "reportType": "Status Report"
+            }
+        },
+        {
+        "BSD112": {
+
+            "lat": 53.5514, 
+            "lng": 9.9935,
+            "shortName": "ACTIVE",
+            "reportType": "Status Report"
+            }
+        },
+        {
+        "BSD113": {
+
+            "lat": 53.5511, 
+            "lng": 9.9938,
+            "shortName": "ACTIVE",
+            "reportType": "Damage Report"
+            }
+        },
+        {
+        "BSD114": {
+
+            "lat": 53.5511, 
+            "lng": 9.9937,
+            "shortName": "ACTIVE",
+            "reportType": "Damage Report"
+            }
+        },
+        {
+        "BSD115": {
+
+            "lat": 53.5511, 
+            "lng": 9.9937,
+            "shortName": "ACTIVE",
+            "reportType": "Repair Report"
+            }
+        },
+        {
+        "BSD116": {
+
+            "lat": 53.5519, 
+            "lng": 9.9937,
+            "shortName": "DISPOSED",
+            "reportType": "Repair Report"
+            }
+        },
+        {
+        "BSD117": {
+
+            "lat": 53.5511, 
+            "lng": 9.9937,
+            "shortName": "DISPOSED",
+            "reportType": "Status Report"
+            }
+        },
+        {
+        "BSD118": {
+
+            "lat": 53.5511, 
+            "lng": 9.9937,
+            "shortName": "ACTIVE",
+            "reportType": "Status Report"
+            }
+        },
+        {
+        "BSD119": {
+
+            "lat": 53.5511, 
+            "lng": 9.9937,
+            "shortName": "ACTIVE",
+            "reportType": "Status Report"
+            }
+        },
+        {
+        "BSD1120": {
+
+            "lat": 53.5511, 
+            "lng": 9.9937,
+            "shortName": "ACTIVE",
+            "reportType": "Status Report"
+            }
+        },
+        {
+        "BSD1121": {
+
+            "lat": 53.5511, 
+            "lng": 9.9937,
+            "shortName": "ACTIVE",
+            "reportType": "Es Report"
+            }
+        }
+        
+
+
+    ]
+}
